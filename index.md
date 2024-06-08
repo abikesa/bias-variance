@@ -1,0 +1,3 @@
+- Not [invariably](https://jhustata.github.io/basic/chapter7.html#string-variables) a `tradeoff`
+- Only a tradeoff when stratification `uninformative`
+- [Precision](https://en.wikipedia.org/wiki/Personalized_medicine#Difference_between_precision_medicine_and_personalized_medicine) medicine is founded on stratification by variables that are `informative`
